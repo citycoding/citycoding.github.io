@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pictureconnect_logo.png
+image: img/pictureconnect_logo.jpg
 title: "Picture Connect"
 date: 2022-08-29
 published: true
