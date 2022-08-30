@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/pictureconnect_logo.png
 title: "Picture Connect"
 date: 2022-08-29
 published: true
