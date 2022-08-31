@@ -20,19 +20,28 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Javascript", "Perl" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Microsoft Office 365", "Windows 10", "Git/GitHub" ]
     }
   ],
   "education": [
     {
+      "institution": "Windward Community College, Kaneohe, HI",
+      "area": "Information and Communication Technology",
+      "studyType": "A.S.",
+      "startDate": "2020-08-23",
+      "endDate": "2021-12-17",
+      "courses": [
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Management Information Systems (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-08-22",
       "endDate": "Present",
       "courses": [
       ]
