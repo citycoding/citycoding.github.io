@@ -11,8 +11,6 @@ labels:
 ---
 
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+When attending WCC I decided to pursue a degree in Information Communication Technology and through this process I found that I had an interest in coding. As I finished my degree I wanted to apply my skills in ICT towards a B.S. in business. This is where my interest in MIS started as it seemed to incorporate aspects of ICT while being in the world of business. This is where my first step into the world of business and my journey in Management Information Systems started.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Reading more into MIS and having some background in coding seems to implement my two biggest interests of business and computers. Having a business of my own opened my eyes to the logistical operations that need to take place in order for everything to run smoothly. This is why I decided to major in MIS as it combines both of my biggest interests.
