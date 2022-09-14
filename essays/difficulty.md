@@ -1,54 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "E1 Technical Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2022-09-13
+published: true
 labels:
-  - Engineering
+
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+My first WOD experience relied heavily on editing one line of code and refreshing my page to see the changes or lack thereof. My first attempt at creating my first HTML webpage took me over 25 minutes of trying to which I restarted. I wanted to fully flesh out each component of my webpage before moving on to the next to make sure that I memorized and had a thorough understanding of what I was doing and why. Using the built in doc EMMET boilerplate was a great help as I used to start my HTML web pages line by line in the past. Using VS code for the first time was also a great experience as the auto creation of closing tags for what I was making was a huge time saver and helper when it came to identifying what specific divisions and text was being used. I did not end up watching the solution and instead used my online resources from my previous attempt to finish it on my second attempt as I only needed an extra few minutes of time that would be quicker on my second try to finish.
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+My second WOD consisted of formatting and customizing my previous webpage by changing the font, background color, text wrapping, and margins. This also took me two attempts to complete but I had a very positive experience when utilizing css for the first time as it felt structured for each change that I made. All of the coding was straightforward and I only required help from online sources when implementing the font change as I had no idea where to start. After the tricky part of using google fonts to change my header and body text everything was smooth sailing and I completed the assignment shortly after.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+The third WOD gave me the most challenge as creating columns of text while formatting in the images and inline text wrap was difficult. Finding out how to create tabs to house the text and images in and spacing them correctly was interesting. For some reason I had to create 4 columns to properly display my intended 3 columns. I am sure there is some reason behind it but I did not push this further as my timer was still running. Inline images were relatively easy as I knew how to “float” objects and I just needed a refresher to fully flesh out my webpage. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+My advice for future WOD assignments is to keep trying and to not be discouraged to use weird or unconventional methods to get to the end result as you might end up learning something new along the way. In the end online resources are your best friend as thousands of people have tried and failed at almost every problem that you run into and their shared experience will help you. 
