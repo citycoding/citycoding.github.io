@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "Christopher Yamada",
+    "label": "Student",
+    "picture": "https://github.com/citycoding.png",
+    "email": "city@hawaii.edu",
+    "phone": "808-308-1008",
+    "website": "https://citycoding.github.io",
+    "summary": "I am studying for a B.S. in Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "citycoding", "url": "http://github.com/citycoding" }
+    ]
+  },
+  "interests": [
+    { "name": "Coding" },
+    { "name": "Agriculture" },
+    { "name": "Video Games" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "Javascript", "Perl" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Microsoft Office 365", "Windows 10", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Windward Community College, Kaneohe, HI",
+      "area": "Information and Communication Technology",
+      "studyType": "A.S.",
+      "startDate": "2020-08-23",
+      "endDate": "2021-12-17",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2022-08-22",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Agricultural Wholesale",
+      "position": "Owner",
+      "website": "",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "summary": "Managing farmland to grow and sell tropical flowers",
+      "highlights": [
+        "Managing and upkeeping land to grow flowers and plants",
+        "Harvesting and wholesaling flowers to local businesses"
+      ]
+    },
+    {
+      "company": "Adventist Health Castle",
+      "position": "Data Entry Associate",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2022-04-18",
+      "endDate": "Present",
+      "summary": "Outpatient Data Entry",
+      "highlights": [
+        "Identify patient files and scan in documents"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2020-2022",
+      "awarder": "Windward Community College",
+      "summary": "Dean's list academic distinction during the Fall 2020, Fall 2021 and Spring 2022 semesters."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
